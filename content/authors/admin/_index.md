@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Geography
     institution: University of North Carolina, Chapel Hill
-    year: 2016 - current (expected completion Spring 2021)
+    year: 2021 (expected)
   - course: M.S in Geography
     institution: University of Illinois, Urbana Champaign
     year: 2013
