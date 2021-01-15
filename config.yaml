@@ -1,6 +1,6 @@
 theme: starter-academic
 title: Varun Goel
-baseurl: ''
+baseurl: 'https://varungoel.io'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
