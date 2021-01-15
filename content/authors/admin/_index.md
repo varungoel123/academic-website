@@ -43,4 +43,4 @@ title: Varun Goel
 
 Varun Goel is a fifth year Ph.D. candidate in the Department of Geography at University of North Carolina-Chapel Hill and a predoctoral trainee at the Carolina Population Center. His research focuses on applying spatial epidemiological methods to examine how interactions between people and their environment drive infectious disease outcomes. His work spans multiple diseases, spatial scales, and settings, including research on diarrheal diseases in Bangladesh and malaria in the Democratic Republic of Congo. He has published in Health and Place, BMJ Global Health, and Science of the Total Environment, among other peer-reviewed journals.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/goel_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
