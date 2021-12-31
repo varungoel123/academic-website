@@ -22,24 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Postdoctoral Research Associate
+    company: Carolina Population Center
+    company_url: 'https://www.cpc.unc.edu/'
+    location: Chapel Hill, North Carolina
+    date_start: '2021-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Lead Postdoctoral researcher on two NIH and NSF funded projects: one that evaluates the recent WHO approved RTS,S malaria vaccine in Africa (NIH RO1), and the other on pandemic swine influenza in the United States and China (NSF Ecology and
+Evolution of Infectious Diseases).
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 ---
