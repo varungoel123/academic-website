@@ -27,6 +27,6 @@ experience:
     company_url: 'https://www.cpc.unc.edu/'
     location: Chapel Hill, North Carolina
     date_start: '2021-10-01'
-    date_end: 'Current'
+    date_end: ''
     description: Lead Postdoctoral researcher on two NIH and NSF funded projects; one that evaluates the recent WHO approved RTS,S malaria vaccine in Africa (NIH RO1), and the other on pandemic swine influenza in the United States and China (NSF Ecology and Evolution of Infectious Diseases).
 ---
