@@ -18,9 +18,9 @@ interests:
 - Geospatial Data Science
 - Spatial Statistics
 organizations:
-- name: University of North Carolina Chapel Hill
-  url: https://www.unc.edu/
-role: PhD Candidate in Geography
+- name: Carolina Population Center, University of North Carolina Chapel Hill
+  url: https://www.cpc.unc.edu/
+role: Postdoctoral Research Associate
 social:
 - icon: envelope
   icon_pack: fas
